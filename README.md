@@ -12,3 +12,11 @@ Comunidad de Apoyo: Los usuarios podrán interactuar con otros jugadores en un e
 Personalización: El juego permitirá a los usuarios personalizar su experiencia según sus intereses, profesiones y personalidades, lo que fomentará una mayor identificación y compromiso (test psicológico).
 
 Accesibilidad Universal: MindScape se diseñará de manera intuitiva y accesible para que cualquier persona, sin importar su nivel de habilidad, pueda disfrutarlo y beneficiarse de él.
+
+Enlaces de interes
+* Panel administrador Wordpress - (Lado Cliente)
+https://honour-permits.000webhostapp.com/wp-admin/users.php
+* Mobincube Panel de administrador APK - (Lado usuario)
+https://www.mobincube.com/es/
+* Proyecto en Firebase 
+https://console.firebase.google.com/project/mindscape-9ab3a/
