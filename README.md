@@ -20,3 +20,5 @@ https://honour-permits.000webhostapp.com/wp-admin/users.php
 https://www.mobincube.com/es/
 * Proyecto en Firebase 
 https://console.firebase.google.com/project/mindscape-9ab3a/
+* figma - diseño de paneles
+https://www.figma.com/
